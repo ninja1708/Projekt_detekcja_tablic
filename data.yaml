@@ -1,0 +1,6 @@
+path: C:\Users\Alan\PycharmProjects\Praca_inzynierska_AK\dataset
+train: C:\Users\Alan\PycharmProjects\Praca_inzynierska_AK\dataset\images\train
+val: C:\Users\Alan\PycharmProjects\Praca_inzynierska_AK\dataset\images\val
+
+names:
+  0: license_plate
