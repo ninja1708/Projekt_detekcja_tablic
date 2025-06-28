@@ -23,3 +23,8 @@ Model został wytrenowany za pomocą polecenia:
 
 ```bash
 yolo task=detect mode=train model=yolov8n.pt data=dataset.yaml epochs=50 imgsz=640
+```
+## Instalcaja bibliotek
+```bash
+pip install -r importy.txt
+```
